@@ -1,6 +1,10 @@
 # 이력서_RESUME
 
-
+- 경력
+- 활동
+- 개인 프로젝트
+- 단체 프로젝트
+- 회사 프로젝트
 
 
 
@@ -8,11 +12,17 @@
 ## 경력_Work Experience
 
 - TN(2018.04 ~ )
-  - par lead
+  - par lead, iOS 개발자
 
 ## 활동_Activities
 
-## 개인 프로젝트 및 단체 프로젝트_
+## 개인 프로젝트_
+
+- (미정)PICK3 (미정)
+  > 하루에 집중할 요소를 3가지를 정하고 이에 대해 기록하는 모바일 앱
+  
+  - Swift
+  - iOS
 
 - Therme (2017.12 ~ 2018.02)
   > 원격 심리상담 어플리케이션(안드로이드)
@@ -55,7 +65,14 @@
   > 텍스트 기반의 RPG
 
   - Java
+## 단체 프로젝트_
 
+- (미정/팀프로젝트)FeedbackReminder (2019.10 ~ )
+  > 피드백 기록 모바일 애플리케이션
+  
+  - Swift
+  - iOS
+  - RxSwift, Alamofire, Moya, Kingfisher
 
 ## 회사 프로젝트_
 
@@ -63,9 +80,16 @@
   > ...
   
   - Swift, php
-  
+  - iOS, Ubuntu
+  - Nginx, MariaDB
+  - Alamofire, Parcement
+  - FCM, Kakao API, Naver API, Facabook API, Google API
   
 - ㅍㅍㄹ (2018.10 ~ 2019. 01)
   > ...
+  
+  - Javascript, Java
+  - MacOS, Ubuntu
+  - Electron, React, Kurento 
  
 
