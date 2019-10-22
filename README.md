@@ -90,4 +90,9 @@
   - MacOS, Ubuntu
   - Electron, React, Kurento 
  
+- 게임 (2019.10 ~ )
+  > 코칭
+  
+- 식단 (2019.10 ~ )
+  > 
 
