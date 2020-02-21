@@ -12,7 +12,7 @@
 - [회사 프로젝트](https://github.com/newoo/resume##회사 프로젝트)
   
   
-## 경력_Work Experience
+## 경력
 
 - N/A(2018.04 ~ 2020.02)
   - iOS 개발자
