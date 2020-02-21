@@ -6,13 +6,13 @@
 
 
 ## 목차
-- [경력](https://github.com/newoo/resume##경력)
+- [경력](https://github.com/newoo/resume#경력)
 - [개인 프로젝트](https://github.com/newoo/resume##개인 프로젝트)
 - [단체 프로젝트](https://github.com/newoo/resume##단체 프로젝트)
 - [회사 프로젝트](https://github.com/newoo/resume##회사 프로젝트)
   
   
-## 경력
+# 경력
 
 - N/A(2018.04 ~ 2020.02)
   - iOS 개발자
