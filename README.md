@@ -7,9 +7,9 @@
 
 ## 목차
 - [경력](https://github.com/newoo/resume#경력)
-- [개인 프로젝트](https://github.com/newoo/resume##개인 프로젝트)
-- [단체 프로젝트](https://github.com/newoo/resume##단체 프로젝트)
-- [회사 프로젝트](https://github.com/newoo/resume##회사 프로젝트)
+- [개인 프로젝트](https://github.com/newoo/resume#개인프로젝트)
+- [단체 프로젝트](https://github.com/newoo/resume#단체프로젝트)
+- [회사 프로젝트](https://github.com/newoo/resume#회사프로젝트)
   
   
 # 경력
@@ -18,7 +18,7 @@
   - iOS 개발자
   - 강사
 
-## 개인 프로젝트_
+# 개인 프로젝트
 
 - PICK3 (개발일정미정)
   > 하루에 집중할 요소를 3가지를 정하고 이에 대해 기록하는 애플리케이션
@@ -70,19 +70,22 @@
 
   - Java
   
-## 단체 프로젝트_
+# 단체 프로젝트
 
 - (미정)FeedbackReminder (2019.10 ~ )
   > 피드백 기록 모바일 애플리케이션
   
+  [Github](https://github.com/newoo/remindfeedback_ios)
+  
+  - **출시예정**
   - Swift
   - iOS
-  - RxSwift, Alamofire, Moya, Kingfisher
+  - RxSwift, RxCocoa, RxAlamofire/Alamofire, Moya, Kingfisher
 
-## 회사 프로젝트_
+# 회사 프로젝트
 
 - Popiece (2018.04 ~ 2020.02)
-  > ...
+  > 개인 및 단체 여행 가계부
   
   - **서비스 중지**
   - Swift, php
@@ -91,10 +94,10 @@
   - Alamofire, Parcement
   - FCM, Kakao API, Naver API, Facabook API, Google API
   
-- ㅍㅍㄹ (2018.10 ~ 2019. 01)
-  > ...
+- 영상 과외 프로그램 (2018.10 ~ 2019. 01)
+  > 개발자와 개발지망생간에 영상 과외를 할 수 있는 플랫폼
   
-  - **서비스 중지**
+  - **미출시**
   - Javascript, Java
   - MacOS, Ubuntu
   - Electron, React, Kurento 
