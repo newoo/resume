@@ -76,7 +76,7 @@
 - (미정)FeedbackReminder (2019.10 ~ )
   > 피드백 기록 모바일 애플리케이션
   
-  [Github](https://github.com/newoo/remindfeedback_ios)
+  [Github](https://github.com/avon-dev/remindfeedback-ios)
   
   - **출시예정**
   - Swift
