@@ -7,6 +7,7 @@
 
 ## 목차
 - [경력](https://github.com/newoo/resume#경력)
+- [단체](https://github.com/newoo/resume#단체)
 - [개인 프로젝트](https://github.com/newoo/resume#개인프로젝트)
 - [단체 프로젝트](https://github.com/newoo/resume#단체프로젝트)
 - [회사 프로젝트](https://github.com/newoo/resume#회사프로젝트)
@@ -17,6 +18,27 @@
 - N/A(2018.04 ~ 2020.02)
   - iOS 개발자
   - 강사
+  
+# 단체
+
+- AVON
+  > 협업 개발 모임
+  
+  - 2019.06 ~
+  - [Github](https://github.com/avon-dev)
+  
+- iO3S
+  > iOS 스터디 모임
+  
+  - 2019.08 ~
+  - [Github](https://github.com/iO3S)
+
+- 이태원 코딩 도장
+  > TDD 및 짝 프로그래밍 스터디 모임
+  
+  - 2020.02 ~
+  - [Github](https://github.com/itaewon-coding-dojo)
+
 
 # 개인프로젝트
 
@@ -96,7 +118,7 @@
   - FCM, Kakao API, Naver API, Facabook API, Google API
   
 - 영상 과외 프로그램 (2018.10 ~ 2019. 01)
-  > 개발자와 개발지망생간에 영상 과외를 할 수 있는 플랫폼
+  > 개발자와 개발지망생 간에 영상 과외를 할 수 있는 플랫폼
   
   - **미출시**
   - Javascript, Java
