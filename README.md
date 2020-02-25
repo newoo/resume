@@ -110,7 +110,7 @@
 - Popiece (2018.04 ~ 2020.02)
   > 개인 및 단체 여행 가계부
   
-  <img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/1.png"><img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/2.png"><img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/3.png"><img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/4.png"><img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/5.png.png">
+  <img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/1.png"><img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/2.png"><img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/3.png"><img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/4.png"><img width="200" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/5.png">
   
   - **서비스 중지**
   - Swift, php
