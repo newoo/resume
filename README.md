@@ -78,19 +78,6 @@
   - CentOS, Apache, MySQL  
   - BootStrap, jQuery
 
-
-- NEWOO to-do list (2017.02 ~ 2017.04)
-  > 폴더기능 및 시각적으로 마감기간을 표시하는 todo리스트 안드로이드 앱
-  
-  - **미출시**
-  - Android, Java
-
-
-- 군인 VS 외계인 (2017.01 ~ 2017.02)
-  > 텍스트 기반의 RPG
-
-  - **미출시**
-  - Java
   
 # 단체프로젝트
 
@@ -108,6 +95,7 @@
 
 - Popiece (2018.04 ~ 2020.02)
   > 개인 및 단체 여행 가계부
+  > iOS 담당
   
   <img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/1.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/2.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/3.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/4.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/5.png">
   
