@@ -15,6 +15,9 @@
   
 # 경력
 
+- Cupist(GLAM)(2020.05 ~)
+  - iOS Client Engineer
+
 - N/A(2018.04 ~ 2020.02)
   - iOS 개발자
   
