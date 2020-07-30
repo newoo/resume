@@ -96,6 +96,14 @@
 
 # 회사프로젝트
 
+- GLAM (2020.05 ~)
+  > 소개팅 및 소셜 서비스 앱
+  > iOS 개발 담당
+  
+  - Swift
+  - MVC, MVVM, MVVM-C
+  - Alamofire, Kingfisher 등
+
 - Popiece (2018.04 ~ 2020.02)
   > 개인 및 단체 여행 가계부
   > iOS 담당
