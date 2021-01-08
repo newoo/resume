@@ -18,8 +18,39 @@
 - Cupist(GLAM)(2020.05 ~)
   - iOS Client Engineer
 
-- N/A(2018.04 ~ 2020.02)
+- Popiece(2018.04 ~ 2020.02)
   - iOS 개발자
+  
+# 회사프로젝트
+
+- GLAM (2020.05 ~)
+  > 소개팅 및 소셜 서비스 앱
+  > iOS 개발 담당
+  
+  - Swift
+  - MVC, MVVM, MVVM-C
+  - Alamofire, Kingfisher 등
+
+- Popiece (2018.04 ~ 2020.02)
+  > 개인 및 단체 여행 가계부
+  > iOS 담당
+  
+  <img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/1.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/2.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/3.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/4.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/5.png">
+  
+  - **서비스 중지**
+  - Swift, php
+  - iOS, Ubuntu
+  - Nginx, MariaDB
+  - Alamofire, Parcement
+  - FCM, Kakao API, Naver API, Facabook API, Google API
+  
+- 영상 과외 프로그램 (2018.10 ~ 2019. 01)
+  > 개발자와 개발지망생 간에 영상 과외를 할 수 있는 플랫폼
+  
+  - **미출시**
+  - Javascript, Java
+  - MacOS, Ubuntu
+  - Electron, React, Kurento 
   
 # 단체
 
@@ -93,36 +124,5 @@
   - Swift
   - iOS
   - RxSwift, RxCocoa, RxAlamofire/Alamofire, Moya, Kingfisher
-
-# 회사프로젝트
-
-- GLAM (2020.05 ~)
-  > 소개팅 및 소셜 서비스 앱
-  > iOS 개발 담당
-  
-  - Swift
-  - MVC, MVVM, MVVM-C
-  - Alamofire, Kingfisher 등
-
-- Popiece (2018.04 ~ 2020.02)
-  > 개인 및 단체 여행 가계부
-  > iOS 담당
-  
-  <img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/1.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/2.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/3.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/4.png"><img width="150" alt="image" src="https://github.com/newoo/resume/blob/master/popiece/5.png">
-  
-  - **서비스 중지**
-  - Swift, php
-  - iOS, Ubuntu
-  - Nginx, MariaDB
-  - Alamofire, Parcement
-  - FCM, Kakao API, Naver API, Facabook API, Google API
-  
-- 영상 과외 프로그램 (2018.10 ~ 2019. 01)
-  > 개발자와 개발지망생 간에 영상 과외를 할 수 있는 플랫폼
-  
-  - **미출시**
-  - Javascript, Java
-  - MacOS, Ubuntu
-  - Electron, React, Kurento 
 
 
