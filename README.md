@@ -15,7 +15,7 @@
   
 # 경력
 
-- Cupist(GLAM)(2021.07 ~)
+- 버킷플레이스(Bucketplace/)(2021.07 ~)
   - iOS Developer
 
 - Cupist(GLAM)(2020.05 ~ 2021.05)
