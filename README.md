@@ -15,7 +15,10 @@
   
 # 경력
 
-- Cupist(GLAM)(2020.05 ~)
+- Cupist(GLAM)(2021.07 ~)
+  - iOS Developer
+
+- Cupist(GLAM)(2020.05 ~ 2021.05)
   - iOS Client Engineer
 
 - Popiece(2018.04 ~ 2020.02)
@@ -23,13 +26,21 @@
   
 # 회사프로젝트
 
-- GLAM (2020.05 ~)
+- 오늘의집(Ohouse) (2021.07 ~)
+  > 인테리어 및 리빙 테크 앱
+  > iOS 개발 담당
+  
+  - Swift
+  - MVC, MVVM, VIP
+  - Combine, RxSwift, ReactorKit, Moya 등
+
+- GLAM (2020.05 ~ 2021.05)
   > 소개팅 및 소셜 서비스 앱
   > iOS 개발 담당
   
   - Swift
   - MVC, MVVM, MVVM-C
-  - Alamofire, Kingfisher 등
+  - Alamofire, Kingfisher, RxSwift 등
 
 - Popiece (2018.04 ~ 2020.02)
   > 개인 및 단체 여행 가계부
