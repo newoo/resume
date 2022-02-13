@@ -16,7 +16,7 @@
 # 경력
 
 - 버킷플레이스(Bucketplace/)(2021.07 ~)
-  - iOS Developer
+  - Software Engineer, iOS
 
 - Cupist(GLAM)(2020.05 ~ 2021.05)
   - iOS Client Engineer
